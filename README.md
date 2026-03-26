@@ -15,4 +15,4 @@ Stock-Analysis from Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](這裡貼上你的Colab網址)
 
 ---
-*專案開發者：你的名字/帳號*
+*專案開發者：Ya Kao/yakau02053@gmail.com*
